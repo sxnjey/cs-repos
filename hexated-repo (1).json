@@ -1,0 +1,8 @@
+{
+    "name": "Hexated-R",
+    "description": "aghhh.....",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/sxnjey/cs-repos/master/hexated.json"
+    ]
+}
