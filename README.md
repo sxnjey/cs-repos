@@ -1,4 +1,7 @@
-# cs-repos
-Community Cloudstream repositories
+# cs-repo-updated
+#### 26-Mar-2022 !
 
-[Show list of repositories](https://recloudstream.github.io/repos/)
+#Hexted link works containing 49 plugins
+Select sorastream after installation.
+[list of repositories](https://rentry.org/cs3-update)
+ENJOY.
